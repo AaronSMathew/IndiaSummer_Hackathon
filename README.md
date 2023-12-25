@@ -5,7 +5,6 @@ Welcome to the Disaster Prevention Portal for Individuals to practice "Disaster 
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Roadmap](#roadmap)
@@ -23,14 +22,7 @@ This portal is a comprehensive platform designed to provide individuals with res
 - **Interactive Maps**: Explore interactive maps to understand disaster-prone areas and evacuation routes.
 - **Community Forum**: Connect with a community of individuals interested in disaster prevention.
 
-## Getting Started
-
-To get started with the Disaster Prevention Portal, follow these steps:
-
-1. Visit the portal at [https://www.mlit.go.jp/river/bousai/olympic/en/index.html](https://www.mlit.go.jp/river/bousai/olympic/en/index.html).
-2. Create an account to unlock personalized features.
-3. Explore the different sections of the portal to access information, exercises, and community forums.
-
+ 
 ## Usage
 
 The portal is designed to be user-friendly. Navigate through the various sections to access the information and resources you need. Stay proactive in disaster prevention by regularly checking for updates and participating in practical exercises.
