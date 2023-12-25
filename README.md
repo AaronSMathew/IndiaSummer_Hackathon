@@ -1,49 +1,48 @@
-India Summer Hackathon - Disaster Prevention Portal
-Welcome to the India Summer Hackathon Disaster Prevention Portal! This web application is designed to provide individuals with information and resources to practice disaster management and mitigation, ultimately protecting lives and livelihoods.
+# India Disaster Prevention Portal
 
-Table of Contents
-Introduction
-Features
-Getting Started
-Usage
-Resources
-Contributing
-License
-Introduction
-The Disaster Prevention Portal is a platform aimed at educating and preparing individuals for natural disasters. It offers valuable resources related to preventive measures, protecting oneself during emergencies, route information, and insights into ongoing disaster management efforts.
+Welcome to the Disaster Prevention Portal for Individuals to practice "Disaster Management and Mitigation to Protect Lives and Livelihoods."
 
-Features
-Resources Section: Explore information on preventive measures, protecting yourself, route information, and learn about ongoing disaster management efforts.
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Roadmap](#roadmap)
+- [License](#license)
 
-Information During a Disaster: Access real-time reports on damage status, weather conditions, evacuation information, traffic and logistics updates, disaster victim assistance, safety status, and lifeline information.
+## Introduction
 
-Travel Advisories: Stay informed about travel advisories, tourism information, and route details during emergencies.
+This portal is a comprehensive platform designed to provide individuals with resources and information to effectively manage and mitigate disasters. It is an initiative aimed at protecting lives and livelihoods by empowering people with the knowledge and tools needed to respond to disasters.
 
-Subscribe to Disaster Alerts: Receive notifications about potential disasters in your area by subscribing to disaster alerts.
+## Features
 
-Country Map and Weather Information: View the country map and check weather warnings, advisories, and cloud maps for better preparedness.
+- **Informative Content**: Access valuable information on disaster management and mitigation.
+- **Practical Exercises**: Engage in practical exercises to enhance your disaster preparedness.
+- **News and Updates**: Stay informed with the latest news and updates related to disaster prevention.
+- **Interactive Maps**: Explore interactive maps to understand disaster-prone areas and evacuation routes.
+- **Community Forum**: Connect with a community of individuals interested in disaster prevention.
 
-SOS Help Line: Access an emergency SOS help line with a phone symbol for immediate assistance.
+## Getting Started
 
-Getting Started
-To get started with the Disaster Prevention Portal, simply visit https://your-website-url.
+To get started with the Disaster Prevention Portal, follow these steps:
 
-Usage
-Explore the various sections of the portal, including Resources, Information During a Disaster, Travel Advisories, and more.
+1. Visit the portal at [https://www.mlit.go.jp/river/bousai/olympic/en/index.html](https://www.mlit.go.jp/river/bousai/olympic/en/index.html).
+2. Create an account to unlock personalized features.
+3. Explore the different sections of the portal to access information, exercises, and community forums.
 
-Subscribe to disaster alerts for your location to receive timely notifications.
+## Usage
 
-Check the country map and weather information for a comprehensive view of disaster-related data.
+The portal is designed to be user-friendly. Navigate through the various sections to access the information and resources you need. Stay proactive in disaster prevention by regularly checking for updates and participating in practical exercises.
 
-In case of emergencies, use the SOS Help Line for immediate assistance.
+## Contributing
 
-Resources
-Documentation: Explore the detailed documentation for in-depth information.
+If you are passionate about disaster prevention and would like to contribute to the development of the portal, please follow our [contribution guidelines](CONTRIBUTING.md). We welcome contributions in the form of code, documentation, or feedback.
 
-FAQs: Find answers to frequently asked questions.
+## Roadmap
 
-Contributing
-We welcome contributions from the community to enhance the Disaster Prevention Portal. If you have ideas, bug reports, or feature requests, please follow our Contribution Guidelines.
+Check our roadmap to see the upcoming features and improvements planned for the Disaster Prevention Portal. Your feedback and suggestions are crucial in shaping the future of this platform.
 
-License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code.
+## License
+
+This project is licensed under the [MIT License](LICENSE).
